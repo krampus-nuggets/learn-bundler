@@ -1,0 +1,6 @@
+asyncio==3.4.3
+greenlet==1.1.1
+playwright==1.15.0
+pyee==8.2.2
+PyYAML==5.4.1
+websockets==10.0
