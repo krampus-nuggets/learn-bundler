@@ -2,6 +2,7 @@
 Include
 Lib
 Scripts
+export
 pyvenv.cfg
 *.png
 *.jpg
