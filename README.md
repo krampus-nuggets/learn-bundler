@@ -12,5 +12,5 @@ Simple POC repository for learning playwright-python. The goal is to create an a
 
 ## 🚧 Clear Issues 🚧
 
-* Multiple instances being created in **pw_microsoft_learn.py** module. In future, single instance will be created and context will be passed down for a single export task. Reasoning for current implementation, modularity.
+* Multiple instances being created in **pw_microsoft_learn.py** module. In future, single instance will be created and context will be passed down for a single export task. Reasoning for current implementation, modularity. **[FIXED]**
 * Static implementation of CLI handler.
