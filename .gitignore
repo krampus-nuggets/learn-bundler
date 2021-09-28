@@ -6,3 +6,4 @@ export
 pyvenv.cfg
 *.png
 *.jpg
+.env
